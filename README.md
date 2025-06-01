@@ -1,5 +1,10 @@
-## Hi there 👋
+## Ohayou Sekai! I'am Esa  👋
 
+
+![Esa Pramudheva](./img/banner.png)
+
+- 🔭 I’m currently working on **@Empatra-DigiTech**
+- 🌱 I’m currently learning **Laravel** Framework
 <!--
 **Dhevajaya/Dhevajaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
